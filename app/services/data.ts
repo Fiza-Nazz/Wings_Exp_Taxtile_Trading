@@ -309,5 +309,105 @@ export const products = [
       features: ["Kids Design", "Soft Material", "Colorful", "Safe for Children"],
       price: "$29.99",
       gradient: "from-[#795548] to-[#6D4C41]"
-    }
+    },
+    {
+    id: 31,
+    title: "Embroidered Lawn Suit",
+    description: "Elegant 3-piece embroidered lawn suit with chiffon dupatta, perfect for summer wear.",
+    image: "/lawn.png",
+    category: "fashion",
+    features: ["Lightweight Fabric", "Chiffon Dupatta", "Breathable Material", "Premium Embroidery"],
+    price: "$45.00",
+    gradient: "from-[#E6B980] to-[#EACDA3]"
+  },
+  {
+    id: 32,
+    title: "Silk Party Dress",
+    description: "Luxury silk dress with intricate handwork, ideal for festive occasions and parties.",
+    image: "/silky.png",
+    category: "fashion",
+    features: ["Soft Silk Fabric", "Hand Embellished", "Party Wear", "Comfort Fit"],
+    price: "$89.99",
+    gradient: "from-[#F4A261] to-[#E76F51]"
+  },
+  {
+    id: 33,
+    title: "Casual Cotton Kurti",
+    description: "Trendy cotton kurti with digital prints, designed for everyday comfort and style.",
+    image: "/image.png",
+    category: "fashion",
+    features: ["Digital Print", "Soft Cotton", "Easy Wash", "Daily Wear"],
+    price: "$25.00",
+    gradient: "from-[#C0EBA6] to-[#8ECF8D]"
+  },
+  {
+    id: 34,
+    title: "Velvet Bridal Dress",
+    description: "Royal velvet bridal outfit adorned with detailed embroidery and sequins.",
+    image: "/valvet.png",
+    category: "fashion",
+    features: ["Premium Velvet", "Zari Work", "Traditional Style", "Luxurious Feel"],
+    price: "$249.99",
+    gradient: "from-[#6A0572] to-[#A4508B]"
+  },
+  {
+    id: 35,
+    title: "Formal Chiffon Maxi",
+    description: "Graceful chiffon maxi with mirror work, designed for weddings and formal events.",
+    image: "/chiffon.png",
+    category: "fashion",
+    features: ["Mirror Work", "Flowy Fabric", "Formal Look", "Soft Texture"],
+    price: "$75.00",
+    gradient: "from-[#FFB6B9] to-[#FAE3D9]"
+  },
+  {
+    id: 36,
+    title: "Printed Lawn Collection",
+    description: "Vibrant lawn suits with modern prints, perfect for summer vibes and casual outings.",
+    image: "/printed.png",
+    category: "fashion",
+    features: ["Modern Prints", "Light Fabric", "Color Fade Resistant", "Trendy Design"],
+    price: "$30.00",
+    gradient: "from-[#FF9A8B] to-[#FF6A88]"
+  },
+  {
+    id: 37,
+    title: "Winter Khaddar Suit",
+    description: "Warm khaddar 3-piece suit with embroidered shawl, ideal for winter comfort.",
+    image: "/khaddar.png",
+    category: "fashion",
+    features: ["Warm Fabric", "Embroidered Shawl", "Winter Wear", "Comfort Fit"],
+    price: "$55.00",
+    gradient: "from-[#8E9AAF] to-[#CBC0D3]"
+  },
+  {
+    id: 38,
+    title: "Organza Fancy Dress",
+    description: "Elegant organza dress with hand embroidery and lace borders for festive elegance.",
+    image: "/organza.png",
+    category: "fashion",
+    features: ["Organza Fabric", "Lace Border", "Hand Embroidery", "Lightweight Feel"],
+    price: "$95.00",
+    gradient: "from-[#FDC830] to-[#F37335]"
+  },
+  {
+    id: 39,
+    title: "Casual Denim Kurti",
+    description: "Trendy denim kurti with minimal embroidery, perfect for a modern casual look.",
+    image: "/kurti.png",
+    category: "fashion",
+    features: ["Denim Fabric", "Comfortable Fit", "Trendy Look", "Minimal Embroidery"],
+    price: "$40.00",
+    gradient: "from-[#74ABE2] to-[#5563DE]"
+  },
+  {
+    id: 40,
+    title: "Luxury Net Gown",
+    description: "Stunning net gown with crystal embellishments and soft inner lining for comfort.",
+    image: "/gawn.png",
+    category: "fashion",
+    features: ["Crystal Embellished", "Soft Inner Lining", "Elegant Design", "Party Wear"],
+    price: "$120.00",
+    gradient: "from-[#C33764] to-[#1D2671]"
+  }
   ];
